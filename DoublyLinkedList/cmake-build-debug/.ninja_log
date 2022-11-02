@@ -1,0 +1,9 @@
+# ninja log v5
+0	54	1667378074394187352	CMakeFiles/DoublyLinkedList.dir/main.c.o	c48ff134381bf305
+55	114	1667378074455320517	DoublyLinkedList	e326a17da7f3ddb6
+1	53	1667378146459621213	CMakeFiles/DoublyLinkedList.dir/main.c.o	c48ff134381bf305
+53	107	1667378146511358731	DoublyLinkedList	e326a17da7f3ddb6
+1	71	1667379232024219802	CMakeFiles/DoublyLinkedList.dir/main.c.o	c48ff134381bf305
+71	131	1667379232084706483	DoublyLinkedList	e326a17da7f3ddb6
+1	81	1667379273008631846	CMakeFiles/DoublyLinkedList.dir/main.c.o	c48ff134381bf305
+81	143	1667379273073109908	DoublyLinkedList	e326a17da7f3ddb6
