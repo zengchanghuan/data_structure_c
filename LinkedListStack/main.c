@@ -46,6 +46,8 @@ Element pop(Stack stack){
     free(temp);
     return element;
 }
+
+//判断栈是否为空只需要看头结点下一个是否为NULL即可
 bool isEmpty(Stack stack){
     return stack->next == NULL;
 }
