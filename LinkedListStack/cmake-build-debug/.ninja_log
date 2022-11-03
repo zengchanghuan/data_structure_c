@@ -1,0 +1,13 @@
+# ninja log v5
+0	46	1667391924427259391	CMakeFiles/LinkedListStack.dir/main.c.o	aeb8d47a5245a93f
+46	106	1667391924487674952	LinkedListStack	b3e93ac5ee2cf2ed
+0	63	1667392595241954249	CMakeFiles/LinkedListStack.dir/main.c.o	aeb8d47a5245a93f
+63	115	1667392595294479312	LinkedListStack	b3e93ac5ee2cf2ed
+1	54	1667392630785945718	CMakeFiles/LinkedListStack.dir/main.c.o	aeb8d47a5245a93f
+54	108	1667392630840297537	LinkedListStack	b3e93ac5ee2cf2ed
+0	53	1667393040578989563	CMakeFiles/LinkedListStack.dir/main.c.o	aeb8d47a5245a93f
+53	103	1667393040629333523	LinkedListStack	b3e93ac5ee2cf2ed
+0	62	1667393107267996893	CMakeFiles/LinkedListStack.dir/main.c.o	aeb8d47a5245a93f
+62	115	1667393107322204031	LinkedListStack	b3e93ac5ee2cf2ed
+1	66	1667393350978665772	CMakeFiles/LinkedListStack.dir/main.c.o	aeb8d47a5245a93f
+66	126	1667393351039967617	LinkedListStack	b3e93ac5ee2cf2ed
