@@ -108,6 +108,7 @@ int sizeList (Node head){
     }
     return i;
 }
+
 int main() {
     //这里创建一个新的头结点，头结点不存放任何元素，只做连接，连接整个链表
     struct ListNode head;
@@ -119,6 +120,7 @@ int main() {
     }
 //    deleteList(&head, 2);
     printList(&head);
+
     printf("getList = %d",*getList(&head,2));
     printf("\n");
 
