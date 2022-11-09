@@ -46,6 +46,7 @@ bool insertList(Node head, Element element, int index) {
         return false;
     }
     node->element = element;
+
     node->next = head->next;
     head->next = node;
     return true;

@@ -26,7 +26,9 @@ void initList(LinkList head);
 
 bool insertList(LinkList head,Element element,int index);
 
-bool deleteList(LinkList head,int index);
+bool deleteListWithIndex(LinkList head,int index);
+
+void deleteListValue(LinkList head,int index);
 
 Element *getList(LinkList head,int index);
 
